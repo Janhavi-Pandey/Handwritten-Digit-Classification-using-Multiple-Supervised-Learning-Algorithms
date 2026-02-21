@@ -101,7 +101,13 @@ Handwritten-Digit-Classification/
 - Scikit-learn
 - Pillow
 
+## 🔮 Future Improvements
 
+- Use larger dataset (MNIST 28x28)
+- Hyperparameter tuning
+- Cross-validation
+- Deploy as web application
+  
 ## 📌 Conclusion
 
 This project demonstrates how multiple supervised learning algorithms can be applied to a multi-class classification problem and evaluated using statistical performance metrics.

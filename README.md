@@ -69,9 +69,51 @@ The confusion matrix shows strong diagonal dominance, indicating correct classif
 - If both accuracies are low → Underfitting
 - In this project, SVM demonstrated a good balance between bias and variance.
 
+ 
+
 ## 📁 Project Structure
+```
 Handwritten-Digit-Classification/
 │
 ├── digit_classification_project.ipynb
 ├── README.md
 ├── requirements.txt
+```
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+   ```git clone https://github.com/your-username/your-repo-name.git```
+2. Install dependencies:
+   ```pip install -r requirements.txt ```
+
+3. Open the notebook:
+   ```jupyter notebook```
+4. Run all cells to reproduce results.
+   
+## 🛠 Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Pillow
+
+
+## 📌 Conclusion
+
+This project demonstrates how multiple supervised learning algorithms can be applied to a multi-class classification problem and evaluated using statistical performance metrics.
+
+Among the tested models, SVM achieved the best overall performance while maintaining good generalization.
+
+The project successfully illustrates core machine learning concepts including:
+- Supervised learning
+- Multi-class classification
+- Model comparison
+- Confusion matrix analysis
+- Bias–Variance tradeoff
+
+## 👤 Author
+Janhavi Pandey
